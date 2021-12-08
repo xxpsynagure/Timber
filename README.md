@@ -13,7 +13,7 @@ Visual Studio 2019 (Community Edition)
 
 ## Future Improvements:
 
-Code efficiency and OOP concepts
+Improved code and efficiency
 
 More trees and clouds in the background
 
